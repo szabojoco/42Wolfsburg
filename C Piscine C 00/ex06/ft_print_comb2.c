@@ -6,7 +6,7 @@
 /*   By: szabojoco <szabojoco@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/02 09:12:37 by szabojoco         #+#    #+#             */
-/*   Updated: 2023/10/03 10:59:34 by szabojoco        ###   ########.fr       */
+/*   Updated: 2023/10/04 09:22:28 by szabojoco        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,8 +63,8 @@ void	print_combinations(void)
 	}
 }
 
-int	main(void)
-{
-	print_combinations();
-	return (0);
-}
+// int	main(void)
+// {
+// 	print_combinations();
+// 	return (0);
+// }
